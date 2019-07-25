@@ -69,3 +69,6 @@ you should see two files after this runs. The "example.rs" and the "example" fil
 ## Cargo
 
 see cargo.md file
+
+## Prelude
+ - The [prelude](https://doc.rust-lang.org/std/prelude/index.html) is the list of things that Rust automatically import into every Rust program. 
